@@ -2,11 +2,11 @@
 ---
 name: resource-optimization
 description: >
-  Optimizes resource usage for psychology-related academic,
+  Optimizes resource usage for develop,
   educational, research, creative, and visual content tasks.
-  Applies to requests involving psychology articles,
-  dissertations, lectures, literature reviews, academic
-  editing, psychology illustrations, and related materials.
+  Applies to requests involving structured writing,
+  long-form materials, reviews, editing,
+  illustrations, and related materials.
 ---
 
 # Focus Resource Optimization
@@ -18,7 +18,7 @@ and attention allocation by limiting processing of
 non-priority subject areas.
 
 This skill defines a specialized resource-saving execution
-mode for psychology-related content.
+mode for content-intensive tasks.
 
 ## Scope
 
